@@ -3,7 +3,7 @@
 《最终幻想战略版 A2》美版（Nintendo DS）中文汉化补丁发布页。
 
 - [下载稳定版补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/latest)
-- [下载 1.0.4 预发布差分补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/tag/v1.0.4-preview)
+- [下载 1.0.4-preview-r2 差分补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/tag/v1.0.4-preview-r2)
 - [完整用户更新日志与模拟器兼容性](CHANGELOG.md)
 
 当前版本为 **1.0.3 / 1.0.3f**。下载并解压 Release 中的 ZIP，打开离线 HTML 补丁器，选择自己持有的 USA 原版 ROM。可选字体默认关闭。
