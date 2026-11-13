@@ -2,12 +2,13 @@
 
 《最终幻想战略版 A2》美版（Nintendo DS）中文汉化补丁发布页。
 
-- [下载稳定版补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/latest)
-- [下载 1.0.4-preview-r2 差分补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/tag/v1.0.4-preview-r2)
-- [完整用户更新日志与模拟器兼容性](CHANGELOG.md)
+- [下载 1.0.4 正式版补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/tag/v1.0.4)
+- [完整更新日志与模拟器兼容性](CHANGELOG.md)
 
-当前版本为 **1.0.3 / 1.0.3f**。下载并解压 Release 中的 ZIP，打开离线 HTML 补丁器，选择自己持有的 USA 原版 ROM。可选字体默认关闭。
+当前版本为 **1.0.4 / 1.0.4f**，文本版本为 **V4.1**。本版修复卡莫亚杯横幅、拍卖场次切换和部分文本显示问题，完善任务、派遣及战斗界面的汉化，并更新开幕署名和开源说明。
 
-预发布包含标准版和双字体版。支持美版原版及发布说明列出的旧汉化版，输入可为 `.nds` 或内含单个 `.nds` 的 ZIP。
+下载并解压 Release 中的 ZIP，用 Chrome、Edge 或 Safari 打开其中的离线 HTML 补丁器。选择自己持有的 USA 原版 ROM 或补丁器列出的旧汉化版；支持 `.nds` 文件和内含单个 `.nds` 文件的 ZIP。默认生成标准版；开启可选字体后生成字体版，可在游戏中选择「文泉驿宋」或「z工坊圆」。
+
+补丁处理在本机离线完成。升级前请备份游戏内普通存档，勿跨版本加载模拟器即时存档。1.0.4-preview 和 preview-r2 已由正式版替代，历史说明和标签仍予保留。
 
 本仓库仅提供用户文档和二进制汉化补丁，不提供游戏 ROM、存档、原始汉化脚本或素材。署名、使用说明和第三方许可包含在补丁包内。
