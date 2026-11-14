@@ -2,6 +2,12 @@
 
 《最终幻想战略版 A2》美版（Nintendo DS）中文汉化补丁发布页。
 
+最新预发布为 **1.0.5-pre / 1.0.5f-pre**，内部测试版，build 2026-11-14。改进文字和界面显示，新增默认关闭的「战斗两倍速」，可在「系统 → 设置」开启。
+
+- [下载 1.0.5-pre 内部测试版补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/tag/v1.0.5-pre)
+
+该预发布的离线补丁包已用 Chrome 验证。1.0.4仍为当前正式版。
+
 - [下载 1.0.4 正式版补丁](https://github.com/ffta-decomp/FFTA-US-CHS/releases/tag/v1.0.4)
 - [完整更新日志与模拟器兼容性](CHANGELOG.md)
 
