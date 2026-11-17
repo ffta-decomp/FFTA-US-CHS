@@ -1,0 +1,175 @@
+{
+  "schema": "ffta2-v41-public-font-layout/1",
+  "reference_release": "1.0.6",
+  "snapshot_date": "2026-11-17",
+  "offsets_are": "ROM file offsets; end is exclusive",
+  "record_counts_include_placeholders": true,
+  "allocation": {
+    "locked_prefix_start": 0,
+    "locked_prefix_end_inclusive": 3117,
+    "shared_tail_start": 3118,
+    "shared_tail_end_inclusive": 4367,
+    "ordinary_assigned_tail_slots": 19,
+    "modules": [
+      {
+        "module": "acj-0972",
+        "start_id": 4160,
+        "end_id_inclusive": 4199,
+        "reserved_slots": 40,
+        "assigned_labels": 25,
+        "enabled_by_default": false
+      }
+    ],
+    "candidate_ID_count": 1191,
+    "candidate_ranges_inclusive": [
+      [
+        3124,
+        3124
+      ],
+      [
+        3137,
+        4159
+      ],
+      [
+        4200,
+        4366
+      ]
+    ],
+    "candidates_are_not_approved_free_slots": true,
+    "IME_hint_range_inclusive": [
+      4368,
+      4399
+    ],
+    "IME_hint_slots": 32,
+    "unpopulated_pointer_range_inclusive": [
+      4400,
+      4671
+    ],
+    "unpopulated_pointer_count": 272,
+    "pointer_capacity_is_not_public_character_count": true
+  },
+  "variants": {
+    "clean": {
+      "ROM_SHA256": "9748c2b3d4bc90215d2330c9bb632f4fea9ecb2f225695e447244b42be08dacb",
+      "fonts": [
+        {
+          "language": 0,
+          "kind": "standard",
+          "glyph_count": 4368,
+          "resource": "menu/font/UseMoji_image.bin",
+          "ROM_start": "0x055BA980",
+          "ROM_end_exclusive": "0x055FA540",
+          "resource_bytes": 261056,
+          "pointer_capacity": 4672,
+          "pointer_area_bytes": 18690,
+          "glyph_record_area_bytes": 211352,
+          "glyph_record_end_relative": 230042,
+          "unused_glyph_data_bytes": 30758,
+          "width_footer_bytes": 256,
+          "width_footer_start_relative": 260800,
+          "width_values_bytes": 176,
+          "font_SHA256": "db3d0136baaa4e34e5bfc1d6f752cc3a02e7a58cb67fb4c7f5518e6c9d97770d"
+        }
+      ],
+      "common_resources": [
+        {
+          "resource": "menu/font/FontWidthTable.bin",
+          "ROM_start": "0x0172AA40",
+          "ROM_end_exclusive": "0x0172B040",
+          "bytes": 1536
+        },
+        {
+          "resource": "menu/font/fontpalette.bin",
+          "ROM_start": "0x038437C0",
+          "ROM_end_exclusive": "0x03843864",
+          "bytes": 164
+        },
+        {
+          "resource": "menu/font/FontIndexTable.bin",
+          "ROM_start": "0x047C4B20",
+          "ROM_end_exclusive": "0x047C5304",
+          "bytes": 2020
+        }
+      ]
+    },
+    "plus": {
+      "ROM_SHA256": "3b129b0bd4466b1dc00f1e608bea101fcd3f471c5f6bad61b71c917640a200fa",
+      "fonts": [
+        {
+          "language": 0,
+          "kind": "standard",
+          "glyph_count": 4400,
+          "resource": "menu/font/UseMoji_default_3.bin",
+          "ROM_start": "0x033ED7B0",
+          "ROM_end_exclusive": "0x0342D370",
+          "resource_bytes": 261056,
+          "pointer_capacity": 4672,
+          "pointer_area_bytes": 18690,
+          "glyph_record_area_bytes": 212840,
+          "glyph_record_end_relative": 231530,
+          "unused_glyph_data_bytes": 29270,
+          "width_footer_bytes": 256,
+          "width_footer_start_relative": 260800,
+          "width_values_bytes": 176,
+          "font_SHA256": "66511e4ec498638b256d667c1f8515502371b9210b383976a3cf5fcf483aaa64"
+        },
+        {
+          "language": 2,
+          "kind": "round",
+          "glyph_count": 4400,
+          "resource": "menu/font/UseMoji_round_12.bin",
+          "ROM_start": "0x02BC07A0",
+          "ROM_end_exclusive": "0x02C00360",
+          "resource_bytes": 261056,
+          "pointer_capacity": 4672,
+          "pointer_area_bytes": 18690,
+          "glyph_record_area_bytes": 217888,
+          "glyph_record_end_relative": 236578,
+          "unused_glyph_data_bytes": 24222,
+          "width_footer_bytes": 256,
+          "width_footer_start_relative": 260800,
+          "width_values_bytes": 176,
+          "font_SHA256": "5a83e3030bc0227ac0c6d593b260365e4450132c3db89e9608efc17654bc1eda"
+        },
+        {
+          "language": 3,
+          "kind": "song",
+          "glyph_count": 4400,
+          "resource": "menu/font/UseMoji_image.bin",
+          "ROM_start": "0x055BA980",
+          "ROM_end_exclusive": "0x055FA540",
+          "resource_bytes": 261056,
+          "pointer_capacity": 4672,
+          "pointer_area_bytes": 18690,
+          "glyph_record_area_bytes": 217532,
+          "glyph_record_end_relative": 236222,
+          "unused_glyph_data_bytes": 24578,
+          "width_footer_bytes": 256,
+          "width_footer_start_relative": 260800,
+          "width_values_bytes": 176,
+          "font_SHA256": "7c99a0fc71661486a317029241ddd43274898156de490567c6e28858ec3fcf3e"
+        }
+      ],
+      "common_resources": [
+        {
+          "resource": "menu/font/FontWidthTable.bin",
+          "ROM_start": "0x0172AA40",
+          "ROM_end_exclusive": "0x0172B040",
+          "bytes": 1536
+        },
+        {
+          "resource": "menu/font/fontpalette.bin",
+          "ROM_start": "0x038437C0",
+          "ROM_end_exclusive": "0x03843864",
+          "bytes": 164
+        },
+        {
+          "resource": "menu/font/FontIndexTable.bin",
+          "ROM_start": "0x047C4B20",
+          "ROM_end_exclusive": "0x047C5304",
+          "bytes": 2020
+        }
+      ]
+    }
+  }
+}
