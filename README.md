@@ -6,8 +6,9 @@
 
 - [下载 1.0.7 正式版补丁](https://github.com/ffta-decomp/FFTA2-US-CHS/releases/tag/v1.0.7)
 - [完整更新日志与模拟器兼容性](CHANGELOG.md)
+- [下载 1.0.7 更新日志](https://github.com/ffta-decomp/FFTA2-US-CHS/blob/main/downloads/ffta2-1.0.7-changelog.md)
 - [V4.1 最终字表：默认编号、游戏编码与 Unicode](charset/v4.1/)
-- [下载离线资料站：单 HTML ZIP](downloads/ffta2-public-site.zip)
+- [下载离线资料站：对应汉化版 1.0.7](downloads/ffta2-public-site.zip)
 
 本版调整增强版字体中的英文字母、数字及部分符号，增加 AP 倍率与招募基准选项，并支持保存四项修改器设置。纯净版保留原有第一幕开屏；增强版默认显示三幕，后两幕可独立选择。
 
