@@ -2,15 +2,15 @@
 
 《最终幻想战略版 A2》美版（Nintendo DS）中文汉化补丁发布页。
 
-当前正式版为 **1.0.8-fix2**，提供 Clean 纯净版、Plus 增强版及两者的安卓版。增强版包含既有增强功能，以及「日版汉化体」「Z工坊圆」「文泉驿宋」三种可选字体。
+当前提供 **1.0.8-fix2 Clean 纯净版**和 **1.0.8-fix4 Plus 增强版**。增强版包含既有增强功能，以及「日版汉化体」「Z工坊圆」「文泉驿宋」三种可选字体。
 
-- [下载 1.0.8-fix2 正式版补丁](https://github.com/ffta-decomp/FFTA2-US-CHS/releases/tag/v1.0.8-fix2)
+- [下载 1.0.8-fix4 正式版补丁](https://github.com/ffta-decomp/FFTA2-US-CHS/releases/tag/v1.0.8-fix4)
 - [完整更新日志与模拟器兼容性](CHANGELOG.md)
-- [下载 1.0.8-fix2 更新日志](https://github.com/ffta-decomp/FFTA2-US-CHS/blob/main/downloads/ffta2-1.0.8-fix2-changelog.md)
+- [下载 1.0.8-fix4 更新日志](https://github.com/ffta-decomp/FFTA2-US-CHS/blob/main/downloads/ffta2-1.0.8-fix4-changelog.md)
 - [V4.1 最终字表：默认编号、游戏编码与 Unicode](charset/v4.1/)
 - [下载离线资料站：对应汉化版 1.0.8-fix](downloads/ffta2-public-site.zip)
 
-本版调整窄汉字对齐，修正 Plus 的双字节英数间距与地区说明阴影。Plus 提供四档战斗速度和「合成素材不减」，安卓版修复激烈模拟器和旧版 melonDS 的大肥鸡动画死机。
+Plus 修复开启战斗加速后长按 B 无法查看移动范围和敌我高亮的问题，保留人才介绍所的招募等级修正。
 
 下载并解压 Release 中的 ZIP，用 Chrome、Edge 或 Safari 打开其中的离线 HTML 补丁工具。选择自己持有的 USA 原版 ROM，或补丁器列出的已支持旧汉化版；支持 `.nds` 文件和内含单个 `.nds` 文件的 ZIP。按页面说明选择版本与功能，生成新的游戏文件。
 
